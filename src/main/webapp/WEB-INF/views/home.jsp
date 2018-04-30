@@ -42,6 +42,7 @@
                  <p>
                         I am adding this extra line
                  </p>
+<p>this is the second line to be added</p>
 <p>
 This is the second line to be added
 </p>
